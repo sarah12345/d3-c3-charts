@@ -1,4 +1,4 @@
-.chart-title {
-  font-size: 20px;
-  font-weight: bold;
+.c3 text.chart-title {
+  font-size: 30px;
+  fill: #602320;
 }
