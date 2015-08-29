@@ -1,6 +1,6 @@
 [
   {
-  "time": 1440824400,
+  "time": 1440824400000,
   "summary": "Rain in the morning and afternoon.",
   "icon": "rain",
   "sunriseTime": 1440846861,
@@ -29,7 +29,7 @@
   "ozone": 297.5
 },
 {
-  "time": 1440910800,
+  "time": 1440910800000,
   "summary": "Partly cloudy until afternoon and humid throughout the day.",
   "icon": "partly-cloudy-day",
   "sunriseTime": 1440933323,
@@ -58,7 +58,7 @@
   "ozone": 306.22
 },
 {
-  "time": 1440997200,
+  "time": 1440997200000,
   "summary": "Humid throughout the day and partly cloudy in the morning.",
   "icon": "partly-cloudy-day",
   "sunriseTime": 1441019785,
@@ -87,7 +87,7 @@
   "ozone": 295.3
 },
 {
-  "time": 1441083600,
+  "time": 1441083600000,
   "summary": "Drizzle in the afternoon.",
   "icon": "rain",
   "sunriseTime": 1441106246,
@@ -116,7 +116,7 @@
   "ozone": 295.03
 },
 {
-  "time": 1441170000,
+  "time": 1441170000000,
   "summary": "Partly cloudy starting in the evening.",
   "icon": "partly-cloudy-night",
   "sunriseTime": 1441192708,
@@ -142,7 +142,7 @@
   "ozone": 287.2
 },
 {
-  "time": 1441256400,
+  "time": 1441256400000,
   "summary": "Clear throughout the day.",
   "icon": "clear-day",
   "sunriseTime": 1441279170,
@@ -170,7 +170,7 @@
   "ozone": 284.83
 },
 {
-  "time": 1441342800,
+  "time": 1441342800000,
   "summary": "Clear throughout the day.",
   "icon": "clear-day",
   "sunriseTime": 1441365631,
@@ -198,7 +198,7 @@
   "ozone": 280.47
 },
 {
-  "time": 1441429200,
+  "time": 1441429200000,
   "summary": "Clear throughout the day.",
   "icon": "clear-day",
   "sunriseTime": 1441452093,
